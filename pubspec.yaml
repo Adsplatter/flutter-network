@@ -1,6 +1,7 @@
 name: flutter_network
 description: "Adsplatter's Flutter network package"
 version: 1.0.0
+
 repository: https://github.com/adsplatter/flutter-network
 homepage: https://github.com/adsplatter/flutter-network
 issue_tracker: https://github.com/adsplatter/flutter-network/issues
@@ -10,7 +11,7 @@ issue_tracker: https://github.com/adsplatter/flutter-network/issues
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ^3.3.0
+  sdk: '>=3.3.0 <4.0.0'
 
 # Add regular dependencies here.
 dependencies:
