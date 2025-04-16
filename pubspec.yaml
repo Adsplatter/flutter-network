@@ -10,7 +10,7 @@ issue_tracker: https://github.com/adsplatter/flutter-network/issues
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ^3.4.3
+  sdk: ^3.4.0
 
 # Add regular dependencies here.
 dependencies:

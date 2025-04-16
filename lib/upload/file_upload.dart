@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:async';
 import 'package:http/http.dart' as http;
-import 'package:adsplatter/framework/network/upload/upload_event.dart';
+import 'package:flutter_network/upload/upload_event.dart';
 
 class AdsplatterFileUpload {
   /// The URL to upload the file to
