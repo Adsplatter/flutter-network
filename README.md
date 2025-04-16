@@ -1,0 +1,5 @@
+### Tests
+
+```bash
+$ dart test
+```
